@@ -9,53 +9,140 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h1 align="center">Employee Management System 🧮🚀</h1>
+<p align="center"><i>A Laravel MVC web application for Employee Management System with the following CRUD operations in single platform</i></p>
+<br>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
+  <br>
 
-## Learning Laravel
+* A Laravel MVC web application for Employee Management System with the following CRUD operations:
+     <br>
+  •	Get all the Employee
+    <br>
+  •	Add a new Employee
+    <br>
+  •	Update an Employee
+    <br>
+  •	Delete an Employee
+    
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+  <!-- TABLE OF CONTENTS -->
+  <details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Ddemo">Demo</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>>
+  </ol>
+</details>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+ Built With :
+  # Technology Stack:
+  * php
+  * Laravel
+  * Blade
+  * HTML
+  * Bootstrap
+  * JavaScript
+  * PostgreSQL Database
+  
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<!-- GETTING STARTED -->
+## Demo:
+* All Employees User Interface
+  ![image](https://github.com/user-attachments/assets/3f07d3f5-c6e5-420c-95d3-0239ab8e073c)
 
-## Laravel Sponsors
+* Add Employee User Interface
+  ![image](https://github.com/user-attachments/assets/55c9bcbb-7a65-415b-b8f2-683a7f9ea5e6)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+* Update Employee User Interface
+  ![image](https://github.com/user-attachments/assets/be5fca02-d288-4650-a32f-2d1458f9e383)
 
-### Premium Partners
+* Delect Student User Interface
+  ![delect](https://github.com/user-attachments/assets/14235a53-f644-4901-8690-4184ea973315)
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+* Pagination:
+  1. Page No.1:
+     ![Pagination](https://github.com/user-attachments/assets/374856f8-a36e-4c0f-8eb9-7423a859013e)
+  2. Page No.2:
+     ![page2](https://github.com/user-attachments/assets/3afe89bb-81b5-40fd-928d-192935487627)
 
-## Contributing
+* Sorting:
+  1. Whitout  Sorting
+     ![WSorting](https://github.com/user-attachments/assets/acabc054-cb47-49e2-a583-858f1193f271)
+  2. with Sorting 
+     ![Sorting](https://github.com/user-attachments/assets/1c164bb9-5a20-419a-ae5d-ee84569bb47e)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+* Database Table
+  ![image](https://github.com/user-attachments/assets/f67ecd5f-20ed-4a31-8e32-8cf89bdaa0e7)
 
-## Code of Conduct
+ ### Prerequisites
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+* to run the project
+  ```sh
+  vs-code/cmd
+  ```
+* to build the project for production
+  # 1. Create a new Laravel project
+composer create-project laravel/laravel your-project-name
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+# 2. Set up environment
+cd your-project-name
+cp .env.example .env
+php artisan key:generate
 
-## License
+# 3. Configure your environment in .env
+# Set up DB settings and other production configs:
+# DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# 4. Add dependencies as needed
+# Example: for database & API development
+composer require laravel/ui
+composer require doctrine/dbal
+
+# 5. Set up database and run migrations
+php artisan migrate
+
+# 6. Start development server (for local testing)
+php artisan serve
+
+# 7. For production, configure a web server like Apache or Nginx
+# Point your web server's root to: public/
+
+# 8. Set proper permissions
+chmod -R 775 storage bootstrap/cache
+
+# 9. Cache config and routes (for production optimization)
+php artisan config:cache
+php artisan route:cache
+php artisan view:cache
+
+# 10. Optionally deploy using Laravel Forge, Envoyer, or manually via SSH
+
+
+### Installation 
+    _Follow these simple steps to get the server up and running 👾🧮🚀✅._ 
+   1. Create Database -> employe_management_system_webapp
+   2.  Open project in preferred IDE (I used SpringToolsSuite4)
+   3.  Run the project as a Spring Boot app.
+   4.  Hibernate will automatically create a table -> employee
+   5.   Add sample data to the table using  Postgresql pgadmin tools
+   6.   Open web browser at localhost: 8080/
+   7.    Add, Update, Delete records and Pagination, Sorting according  alphabetically from the web app
+
