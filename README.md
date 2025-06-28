@@ -18,12 +18,12 @@
   <br>
 
 ##  A Laravel MVC web application for Employee Management System with the following CRUD operations:
-    sh```
+sh```
       • Get all the Employee
       • Add a new Employee
       • Update an Employee
       • Delete an Employee
-    ```
+```
     
 
   <!-- TABLE OF CONTENTS -->
