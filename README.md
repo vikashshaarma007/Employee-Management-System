@@ -80,7 +80,7 @@
 
 * Pagination:
   1. Page No.1:
-    ![image](https://github.com/user-attachments/assets/3518fe4d-7fde-4529-9b69-97137dd068b6)
+    ![Screenshot 2025-06-28 211120](https://github.com/user-attachments/assets/40ea9620-8b8e-4125-969b-0db3868bd929)
   2. Page No.2:
     ![Screenshot 2025-06-28 211622](https://github.com/user-attachments/assets/0ae23ae3-5f70-4a75-8c4c-c1f6fc907d1d)
 
