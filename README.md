@@ -94,11 +94,11 @@
  ### Prerequisites
 
 
-* to run the project
+## To run the project
   ```sh
   vs-code/cmd
   ```
-* to build the project for production
+## To build the project for production
   ```sh
   1. Create a new Laravel project
     composer create-project laravel/laravel your-project-name
@@ -159,5 +159,5 @@
        php artisan serve
     10. Open the web browser at: http://localhost:8000/
     11. Use the web app to Add, Fetch, Update, and Delete records.
-  ```
+ ```
 
