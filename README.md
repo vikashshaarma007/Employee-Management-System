@@ -128,7 +128,7 @@
   1. Clone the repo
 
 ```sh
-      git clone https://github.com/your_username_/Project-Name.git
+      https://github.com/vikashshaarma007/Employee-Management-System.git
 ```
 2. Run the Project
    ```sh
@@ -156,4 +156,3 @@
     10. Open the web browser at: http://localhost:8000/
     11. Use the web app to Add, Fetch, Update, and Delete records.
  ```
-
