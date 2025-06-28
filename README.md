@@ -17,7 +17,7 @@
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
 
-* A Laravel MVC web application for Employee Management System with the following CRUD operations:
+# A Laravel MVC web application for Employee Management System with the following CRUD operations:
      <br>
   •	Get all the Employee
     <br>
