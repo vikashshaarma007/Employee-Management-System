@@ -17,15 +17,13 @@
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
 
-# A Laravel MVC web application for Employee Management System with the following CRUD operations:
-     <br>
-  •	Get all the Employee
-    <br>
-  •	Add a new Employee
-    <br>
-  •	Update an Employee
-    <br>
-  •	Delete an Employee
+## A Laravel MVC web application for Employee Management System with the following CRUD operations:
+     sh```
+    • Get all the Employee
+    • Add a new Employee
+    • Update an Employee
+    • Delete an Employee
+    ```
     
 
   <!-- TABLE OF CONTENTS -->
