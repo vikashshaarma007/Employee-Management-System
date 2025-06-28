@@ -127,15 +127,39 @@
      php artisan view:cache
   10. Optionally deploy using Laravel Forge, Envoyer, or manually via SSH
  ```
+## Installation 
+   Follow these simple steps to get the server up and running 👾🧮🚀✅.
+  1. Clone the repo
+
+```sh
+      git clone https://github.com/your_username_/Project-Name.git
+     ```
+2. Run the Project
+   ```sh
+1. Create a Database -> RestFramework_DB using pgAdmin 4 or any PostgreSQL client.
+2. Open the project in your preferred IDE (e.g., VS Code, PHPStorm, Sublime Text).
+3. Install project dependencies:
+   composer install
+4. Copy the example environment config and update it:
+   cp .env.example .env
+5. Edit the `.env` file and update database settings:
+   DB_CONNECTION=pgsql
+   DB_HOST=127.0.0.1
+   DB_PORT=5432
+   DB_DATABASE=RestFramework_DB
+   DB_USERNAME=your_pg_username
+   DB_PASSWORD=your_pg_password
+6. Generate the application key:
+   php artisan key:generate
+7. Run migrations to create tables:
+   php artisan migrate
+   # Tables created: campaigns, campaign_results, agents
+8. (Optional) Add sample data using seeders or via pgAdmin 4.
+9. Start the Laravel development server:
+   php artisan serve
+10. Open the web browser at: http://localhost:8000/
+11. Use the web app to Add, Fetch, Update, and Delete records.
 
 
-### Installation 
-    _Follow these simple steps to get the server up and running 👾🧮🚀✅._ 
-   1. Create Database -> employe_management_system_webapp
-   2.  Open project in preferred IDE (I used SpringToolsSuite4)
-   3.  Run the project as a Spring Boot app.
-   4.  Hibernate will automatically create a table -> employee
-   5.   Add sample data to the table using  Postgresql pgadmin tools
-   6.   Open web browser at localhost: 8080/
-   7.    Add, Update, Delete records and Pagination, Sorting according  alphabetically from the web app
+   ```
 
