@@ -29,9 +29,9 @@
       📊 PostgreSQL database integration
 ```
 <!-- TABLE OF CONTENTS -->
- <details> <summary>Click to expand</summary> <ol> <li><a href="#📌-about-the-project">📌 About the Project</a></li> <li><a href="#🛠️-built-with">🛠️ Built With</a></li> <li><a href="#📸-demo">📸 Demo</a></li> <li> <a href="#🚀-getting-started">🚀 Getting Started</a> <ul> <li><a href="#📌-prerequisites">📌 Prerequisites</a></li> <li><a href="#⚙️-installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#🧪-usage">🧪 Usage</a></li> <li><a href="#📈-roadmap">📈 Roadmap</a></li> </ol> </details>
+ <details> <summary>Click to expand</summary> <ol> <li><a href="#-about-the-project">📌 About the Project</a></li> <li><a href="#-built-with">🛠️ Built With</a></li> <li><a href="#-demo">📸 Demo</a></li> <li> <a href="#-getting-started">🚀 Getting Started</a> <ul> <li><a href="#-prerequisites">📌 Prerequisites</a></li> <li><a href="#-installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#-usage">🧪 Usage</a></li> <li><a href="#-roadmap">📈 Roadmap</a></li> </ol> </details>
 
- ## 📦 Built With :
+ ## Built With :
   # Technology Stack:
   * Php
   * Laravel
@@ -43,7 +43,7 @@
   
 
 <!-- GETTING STARTED -->
-## 📸 Demo:
+## Demo:
 * All Employees User Interface
   ![image](https://github.com/user-attachments/assets/f5823a81-8225-466b-8bbc-d01b7d9a98a3)
 
@@ -68,8 +68,8 @@
 * Database Table
   ![image](https://github.com/user-attachments/assets/908a71c6-95cf-48c2-ad82-c1daf5d38164)
 
-## 🚀 Getting Started
-### 📌 Prerequisites
+## Getting Started
+### Prerequisites
 ```sh
        PHP >= 8.1
        Composer
@@ -77,7 +77,7 @@
        Laravel CLI
        Web server (Apache/Nginx for production)
   ```
-###  🛠️ Installation 
+### Installation 
    Follow these simple steps to get the server up and running 👾🧮🚀✅.
   1. Clone the repo
 
@@ -111,14 +111,14 @@
     10. Open the web browser at: http://localhost:8000/
     11. Use the web app to Add, Fetch, Update, and Delete records.
    ```
-## 🧪 Usage
+## Usage
 ```sh
    Add new employees through the UI.
    Edit or delete employee data.
    Paginate through employee records.
    All actions use Laravel's built-in validation and routing.
 ```
-## 📈 Roadmap
+## Roadmap
 ```sh
    Authentication system
    Role-based access control
