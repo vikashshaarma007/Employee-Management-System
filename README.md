@@ -32,7 +32,7 @@
  📋 Table of Contents
 <details> <summary>Click to expand</summary> <ol> <li><a href="#about-the-project">📌 About the Project</a></li> <li><a href="#built-with">🛠️ Built With</a></li> <li><a href="#demo">📸 Demo</a></li> <li> <a href="#getting-started">🚀 Getting Started</a> <ul> <li><a href="#prerequisites">📌 Prerequisites</a></li> <li><a href="#installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#usage">🧪 Usage</a></li> <li><a href="#roadmap">📈 Roadmap</a></li> </ol> </details>
 
- 📦 Built With :
+ ## 📦 Built With :
   # Technology Stack:
   * Php
   * Laravel
@@ -69,8 +69,8 @@
 * Database Table
   ![image](https://github.com/user-attachments/assets/908a71c6-95cf-48c2-ad82-c1daf5d38164)
 
-### 🚀 Getting Started
-📌 Prerequisites
+## 🚀 Getting Started
+### 📌 Prerequisites
 ```sh
        PHP >= 8.1
        Composer
@@ -78,7 +78,7 @@
        Laravel CLI
        Web server (Apache/Nginx for production)
   ```
-## 🛠️ Installation 
+###  🛠️ Installation 
    Follow these simple steps to get the server up and running 👾🧮🚀✅.
   1. Clone the repo
 
