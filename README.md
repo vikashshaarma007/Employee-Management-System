@@ -19,7 +19,7 @@
 
 <p align="center"><i>A Laravel MVC web application for managing employee data with full CRUD functionality.</i></p>
 
- #✅ Features
+ ## ✅ Features
 ```sh
       👤 Get all employees
       ➕ Add a new employee
@@ -30,7 +30,7 @@
 ```
 <!-- TABLE OF CONTENTS -->
  📋 Table of Contents
-<details> <summary>Click to expand</summary> <ol> <li><a href="#about-the-project">About the Project</a></li> <li><a href="#built-with">Built With</a></li> <li><a href="#demo">Demo</a></li> <li><a href="#getting-started">Getting Started</a></li> <ul> <li><a href="#prerequisites">Prerequisites</a></li> <li><a href="#installation">Installation</a></li> </ul> <li><a href="#usage">Usage</a></li> <li><a href="#roadmap">Roadmap</a></li> </ol> </details>
+<details> <summary>Click to expand</summary> <ol> <li><a href="#about-the-project">📌 About the Project</a></li> <li><a href="#built-with">🛠️ Built With</a></li> <li><a href="#demo">📸 Demo</a></li> <li> <a href="#getting-started">🚀 Getting Started</a> <ul> <li><a href="#prerequisites">📌 Prerequisites</a></li> <li><a href="#installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#usage">🧪 Usage</a></li> <li><a href="#roadmap">📈 Roadmap</a></li> </ol> </details>
 
  📦 Built With :
   # Technology Stack:
@@ -111,7 +111,7 @@
        php artisan serve
     10. Open the web browser at: http://localhost:8000/
     11. Use the web app to Add, Fetch, Update, and Delete records.
- ```
+   ```
 ## 🧪 Usage
 ```sh
    Add new employees through the UI.
