@@ -29,8 +29,7 @@
       📊 PostgreSQL database integration
 ```
 <!-- TABLE OF CONTENTS -->
- 📋 Table of Contents
-<details> <summary>Click to expand</summary> <ol> <li><a href="#about-the-project">📌 About the Project</a></li> <li><a href="#built-with">🛠️ Built With</a></li> <li><a href="#demo">📸 Demo</a></li> <li> <a href="#getting-started">🚀 Getting Started</a> <ul> <li><a href="#prerequisites">📌 Prerequisites</a></li> <li><a href="#installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#usage">🧪 Usage</a></li> <li><a href="#roadmap">📈 Roadmap</a></li> </ol> </details>
+ <details> <summary>Click to expand</summary> <ol> <li><a href="#📌-about-the-project">📌 About the Project</a></li> <li><a href="#🛠️-built-with">🛠️ Built With</a></li> <li><a href="#📸-demo">📸 Demo</a></li> <li> <a href="#🚀-getting-started">🚀 Getting Started</a> <ul> <li><a href="#📌-prerequisites">📌 Prerequisites</a></li> <li><a href="#⚙️-installation">⚙️ Installation</a></li> </ul> </li> <li><a href="#🧪-usage">🧪 Usage</a></li> <li><a href="#📈-roadmap">📈 Roadmap</a></li> </ol> </details>
 
  ## 📦 Built With :
   # Technology Stack:
@@ -44,7 +43,7 @@
   
 
 <!-- GETTING STARTED -->
-## Demo:
+## 📸 Demo:
 * All Employees User Interface
   ![image](https://github.com/user-attachments/assets/f5823a81-8225-466b-8bbc-d01b7d9a98a3)
 
