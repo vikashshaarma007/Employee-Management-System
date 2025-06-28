@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+
 
 
 <h1 align="center">Employee Management System 🧮🚀</h1>
@@ -99,41 +99,43 @@
   vs-code/cmd
   ```
 * to build the project for production
+  ```sh
   # 1. Create a new Laravel project
-composer create-project laravel/laravel your-project-name
+   composer create-project laravel/laravel your-project-name
 
-# 2. Set up environment
-cd your-project-name
-cp .env.example .env
-php artisan key:generate
+  # 2. Set up environment
+  cd your-project-name
+  cp .env.example .env
+  php artisan key:generate
 
-# 3. Configure your environment in .env
-# Set up DB settings and other production configs:
-# DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD
+  # 3. Configure your environment in .env
+  # Set up DB settings and other production configs:
+  # DB_CONNECTION, DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
-# 4. Add dependencies as needed
-# Example: for database & API development
-composer require laravel/ui
-composer require doctrine/dbal
+  # 4. Add dependencies as needed
+  # Example: for database & API development
+  composer require laravel/ui
+  composer require doctrine/dbal
 
-# 5. Set up database and run migrations
-php artisan migrate
+  # 5. Set up database and run migrations
+  php artisan migrate
 
-# 6. Start development server (for local testing)
-php artisan serve
+  # 6. Start development server (for local testing)
+  php artisan serve
 
-# 7. For production, configure a web server like Apache or Nginx
-# Point your web server's root to: public/
+  # 7. For production, configure a web server like Apache or Nginx
+  # Point your web server's root to: public/
 
-# 8. Set proper permissions
-chmod -R 775 storage bootstrap/cache
+  # 8. Set proper permissions
+  chmod -R 775 storage bootstrap/cache
 
-# 9. Cache config and routes (for production optimization)
-php artisan config:cache
-php artisan route:cache
-php artisan view:cache
+  # 9. Cache config and routes (for production optimization)
+  php artisan config:cache
+  php artisan route:cache
+  php artisan view:cache
 
-# 10. Optionally deploy using Laravel Forge, Envoyer, or manually via SSH
+  # 10. Optionally deploy using Laravel Forge, Envoyer, or manually via SSH
+ ```
 
 
 ### Installation 
