@@ -65,31 +65,28 @@
 <!-- GETTING STARTED -->
 ## Demo:
 * All Employees User Interface
-  ![image](https://github.com/user-attachments/assets/3f07d3f5-c6e5-420c-95d3-0239ab8e073c)
+  ![image](https://github.com/user-attachments/assets/f5823a81-8225-466b-8bbc-d01b7d9a98a3)
 
 * Add Employee User Interface
-  ![image](https://github.com/user-attachments/assets/55c9bcbb-7a65-415b-b8f2-683a7f9ea5e6)
+  ![image](https://github.com/user-attachments/assets/522be22a-ffc6-411f-b155-4d92af91c6f1)
+  ![image](https://github.com/user-attachments/assets/4304d9de-cfb9-4dee-b18f-88b2a45a89f7)
 
 * Update Employee User Interface
-  ![image](https://github.com/user-attachments/assets/be5fca02-d288-4650-a32f-2d1458f9e383)
-
-* Delect Student User Interface
-  ![delect](https://github.com/user-attachments/assets/14235a53-f644-4901-8690-4184ea973315)
+  ![image](https://github.com/user-attachments/assets/a4d397e7-0e74-45f3-bb83-b310efb9aa07)
+  ![image](https://github.com/user-attachments/assets/597493bd-6059-478e-8756-26e1d19cb1bb)
+  
+* Delete Employee User Interface
+  ![image](https://github.com/user-attachments/assets/28280fda-5cc4-41e8-b357-af53024ad6fa)
+  ![image](https://github.com/user-attachments/assets/be061b3c-796e-4061-8668-ed98bb05bf49)
 
 * Pagination:
   1. Page No.1:
-     ![Pagination](https://github.com/user-attachments/assets/374856f8-a36e-4c0f-8eb9-7423a859013e)
+    ![image](https://github.com/user-attachments/assets/3518fe4d-7fde-4529-9b69-97137dd068b6)
   2. Page No.2:
-     ![page2](https://github.com/user-attachments/assets/3afe89bb-81b5-40fd-928d-192935487627)
-
-* Sorting:
-  1. Whitout  Sorting
-     ![WSorting](https://github.com/user-attachments/assets/acabc054-cb47-49e2-a583-858f1193f271)
-  2. with Sorting 
-     ![Sorting](https://github.com/user-attachments/assets/1c164bb9-5a20-419a-ae5d-ee84569bb47e)
+    ![Screenshot 2025-06-28 211622](https://github.com/user-attachments/assets/0ae23ae3-5f70-4a75-8c4c-c1f6fc907d1d)
 
 * Database Table
-  ![image](https://github.com/user-attachments/assets/f67ecd5f-20ed-4a31-8e32-8cf89bdaa0e7)
+  ![image](https://github.com/user-attachments/assets/908a71c6-95cf-48c2-ad82-c1daf5d38164)
 
  ### Prerequisites
 
