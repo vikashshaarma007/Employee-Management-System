@@ -30,23 +30,25 @@
 ```
 <!-- TABLE OF CONTENTS -->
  <!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>📚 Table of Contents (Click to expand)</summary>
   <ol>
-    <li><a href="#-about-the-project">📌 About the Project</a></li>
-    <li><a href="#-built-with">🛠️ Built With</a></li>
-    <li><a href="#-demo">📸 Demo</a></li>
+    <li><a href="#about-the-project">📌 About the Project</a></li>
+    <li><a href="#built-with">🛠️ Built With</a></li>
+    <li><a href="#demo">📸 Demo</a></li>
     <li>
-      <a href="#-getting-started">🚀 Getting Started</a>
+      <a href="#getting-started">🚀 Getting Started</a>
       <ul>
-        <li><a href="#-prerequisites">📌 Prerequisites</a></li>
-        <li><a href="#-installation">⚙️ Installation</a></li>
+        <li><a href="#prerequisites">📌 Prerequisites</a></li>
+        <li><a href="#installation">⚙️ Installation</a></li>
       </ul>
     </li>
-    <li><a href="#-usage">🧪 Usage</a></li>
-    <li><a href="#-roadmap">📈 Roadmap</a></li>
+    <li><a href="#usage">🧪 Usage</a></li>
+    <li><a href="#roadmap">📈 Roadmap</a></li>
   </ol>
 </details>
+
 
 
  ## Built With :
