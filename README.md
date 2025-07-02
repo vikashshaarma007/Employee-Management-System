@@ -107,7 +107,7 @@
 ```
 2. Run the Project
    ```sh
-    1. Create a Database -> RestFramework_DB using pgAdmin 4 or any PostgreSQL client.
+    1. Create a Database -> EMS_db using pgAdmin 4 or any PostgreSQL client.
     2. Open the project in your preferred IDE (e.g., VS Code, PHPStorm, Sublime Text).
     3. Install project dependencies:
        composer install
