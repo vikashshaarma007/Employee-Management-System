@@ -21,7 +21,6 @@
 
  ## ✅ Features
 ```sh
-      ### 📋 Features
 
 | Feature                       | Description                                                         |
 | ---------------------------- | ------------------------------------------------------------------- |
@@ -36,8 +35,6 @@
 | 🎨 **Clean UI (Bootstrap 5)** | User-friendly, responsive layout for desktop and mobile devices     |
 
 ```
-<!-- TABLE OF CONTENTS -->
- <!-- TABLE OF CONTENTS -->
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>📚 Table of Contents (Click to expand)</summary>
