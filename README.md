@@ -11,13 +11,13 @@
 
 
 <h1 align="center">👨‍💼 Employee Management System — Laravel MVC Web App 🧮🚀</h1>
-<p align="center"><i>This is a Laravel MVC-based web application designed to manage employee data efficiently. The application provides a full suite of CRUD operations (Create, Read, Update, Delete), allowing administrators to maintain employee records through a user-friendly web interface.</i></p>
+<p align="left"><i>This is a Laravel MVC-based web application designed to manage employee data efficiently. The application provides a full suite of CRUD operations (Create, Read, Update, Delete), allowing administrators to maintain employee records through a user-friendly web interface.</i></p>
 <br>
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
 
-<p align="center"><i>Employee Management System is a Laravel-based MVC web application that provides a complete solution to create, read, update, and delete (CRUD) employee records through a responsive and user-friendly interface. This system allows administrators or HR personnel to efficiently manage employee data in an organized manner.</i></p>
+<p align="left"><i>Employee Management System is a Laravel-based MVC web application that provides a complete solution to create, read, update, and delete (CRUD) employee records through a responsive and user-friendly interface. This system allows administrators or HR personnel to efficiently manage employee data in an organized manner.</i></p>
 
  ## ✅ Features
 ```sh
