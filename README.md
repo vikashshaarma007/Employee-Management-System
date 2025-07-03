@@ -21,17 +21,16 @@
 
  ## ✅ Features
 ```sh
-      Feature	                      Description
-     👤 Get All Employees	     View all employees in a responsive tabular format
-     ➕ Add New Employee	     Add employee details including name, email, role, and profile image
-     ✏️ Update Employee	     Edit existing employee information easily
-     ❌ Delete Employee	     Remove any employee record with confirmation
-     🔢 Pagination Support	     Paginated list for easy browsing of large data sets
-     📊 PostgreSQL Integration	 Stores and manages data using a relational PostgreSQL database
-     🖼️ Image Upload	         Upload and display profile pictures with proper storage and naming
-     ✅ Form Validation	     Robust server-side validation with real-time error feedback
-     🎨 Clean UI (Bootstrap 5)	 User-friendly, responsive layout for desktop and mobile devices
-
+      Feature	Description
+        👤 Get All Employees	View all employees in a responsive tabular format
+        ➕ Add New Employee	Add employee details including name, email, role, and profile image
+        ✏️ Update Employee	Edit existing employee information easily
+        ❌ Delete Employee	Remove any employee record with confirmation
+        🔢 Pagination Support	Paginated list for easy browsing of large data sets
+        📊 PostgreSQL Integration	Stores and manages data using a relational PostgreSQL database
+        🖼️ Image Upload	Upload and display profile pictures with proper storage and naming
+        ✅ Form Validation	Robust server-side validation with real-time error feedback
+       🎨 Clean UI (Bootstrap 5)	User-friendly, responsive layout for desktop and mobile device
 ```
 <!-- TABLE OF CONTENTS -->
  <!-- TABLE OF CONTENTS -->
